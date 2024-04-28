@@ -1,2 +1,2 @@
-import membership.membershipfunction
-import membership.mfDerivs
+import .membership.membershipfunction
+import .membership.mfDerivs
